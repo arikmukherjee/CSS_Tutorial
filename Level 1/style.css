@@ -1,0 +1,77 @@
+/* h1 {
+    color: green;
+}
+
+P {
+    background-color: aqua;
+    color: white;
+}
+
+body {
+    background-color: yellowgreen;
+}
+
+* {
+    background-color: red;
+}
+
+#headingOne{
+    color: blue;
+}
+
+#headingTwo {
+    color: black;
+}
+
+#headingThree {
+    color: blueviolet;
+} */
+
+p {
+  text-align: left;
+  text-align: right;
+  text-align: calc();
+  text-align: justify;
+  text-align: center;
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+h2 {
+  text-decoration: overline;
+  text-decoration: blue underline;
+  text-decoration: blue dotted underline;
+}
+
+a {
+  text-decoration: none;
+}
+
+#h1 {
+  font-weight: bold;
+  font-weight: bolder;
+  font-weight: lighter;
+  font-weight: 900;
+}
+
+#h3 {
+  font-weight: 900;
+}
+
+#one {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 42px;
+}
+
+#one {
+  /* line-height: 5px;
+    line-height: 100px; */
+  line-height: normal;
+  text-transform: capitalize;
+  text-transform: uppercase;
+  text-transform: lowercase;
+  text-transform: none;
+}
