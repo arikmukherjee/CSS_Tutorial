@@ -1,0 +1,73 @@
+/* this is a nav bar */
+* {
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
+#navbar {
+  height: 60px;
+  background-color: #0f1122;
+}
+
+button {
+  background-color: #f08804;
+}
+
+#logo {
+  color: #f08804;
+  font-size: 25px;
+}
+
+a {
+  margin-right: 200px;
+}
+
+/* these are divs */
+#one,
+#two,
+#three {
+  height: 100px;
+  width: 100px;
+}
+
+#one {
+  height: 100px;
+  width: 100px;
+  border-width: 5px;
+  border-style: solid;
+  background-color: bisque;
+  border-color: rgba(13, 62, 82, 0.5);
+  margin: 5px;
+  display: inline-block;
+}
+
+#two {
+  height: 100px;
+  width: 100px;
+  border-width: 5px;
+  border-style: solid;
+  background-color: bisque;
+  border-color: rgba(13, 62, 82, 0.5);
+  margin: 5px;
+  display: inline-block;
+}
+
+#three {
+  height: 100px;
+  width: 100px;
+  border-width: 5px;
+  border-style: solid;
+  background-color: bisque;
+  border-color: rgba(13, 62, 82, 0.5);
+  margin: 5px;
+  display: inline-block;
+}
+footer{
+  background-color: #020207;
+  height: 100px;
+}
+
+#content {
+  height: 500px;
+}
