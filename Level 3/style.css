@@ -1,0 +1,112 @@
+/* use of % as unit */
+/* #box1{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+}
+
+#box2{
+    height: 50px;
+    width: 30%;
+    background-color: yellow;
+} */
+
+
+/* use of em */
+/* #box1{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+}
+
+#box2{
+    height: 50px;
+    width: 5em;
+    background-color: yellow;
+} */
+
+
+/* use of rem */
+/* #box1{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+}
+
+#box2{
+    height: 10rem;
+    width: 20rem;
+    background-color: yellow;
+} */
+
+#box1{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(166, 16, 16);
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    display: inline-block;
+    background: url("tortoise.jpg");
+    background-size: cover;
+}
+
+#box2{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(27, 118, 125);
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    display: inline-block;
+}
+
+#box3{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(168, 78, 139);
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    display: inline-block;
+}
+
+#box4{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(75, 46, 179);
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    display: inline-block;
+}
+
+body {
+    background: url("fox.jpg");
+    background-size: cover;
+}
+
+/* #box1{
+    position: static;
+}
+
+#box2 {
+    position: relative;
+    top: 20px;
+    left: 10px;
+}
+
+/* #box3{
+    position: absolute;
+    top: 30px;
+} */
+
+/* #box4 {
+    position: fixed;
+    top: 400px;
+}
+
+#box3{
+    position: sticky;
+    top: 0px;
+} */ 
