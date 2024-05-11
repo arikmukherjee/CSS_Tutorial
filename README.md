@@ -1,29 +1,29 @@
 # CSS_Tutorial
 <h1>What dis I learn from this tutorial ?</h1>
 <h3>Level 1</h3>
-<li>
-  <ul>CSS Syntax</ul>
-  <ul>Types of adding CSS</ul>
-  <ul>Colors</ul>
-  <ul>Background Color</ul>
-  <ul>Types of Selector</ul>
-  <ul># Id and . class selector</ul>
-  <ul>Text properties</ul>
-  <ul>Font properties</ul>
-  <ul>Absolute Units in CSS</ul>
-</li>
+<ul>
+  <li>CSS Syntax</li>
+  <li>Types of adding CSS</li>
+  <li>Colors</li>
+  <li>Background Color</li>
+  <li>Types of Selector</li>
+  <li># Id and . class selector</li>
+  <li>Text properties</li>
+  <li>Font properties</li>
+  <li>Absolute Units in CSS</li>
+</ul>
 
 <h3>Level 2</h3>
-<li>
-  <ul>Box Model in CSS</ul>
-  <ul>Display property</ul>
-  <ul>Alpha Channel</ul>
-</li>
+<ul>
+  <li>Box Model in CSS</li>
+  <li>Display property</li>
+  <li>Alpha Channel</li>
+</ul>
 
 <h3>Level 3</h3>
-<li>
-  <ul>Relative Units in CSS</ul>
-  <ul>Position properties</ul>
-  <ul>Z-index</ul>
-  <ul>Background size</ul>
-</li>
+<ul>
+  <li>Relative Units in CSS</li>
+  <li>Position properties</li>
+  <li>Z-index</li>
+  <li>Background size</li>
+</ul>
