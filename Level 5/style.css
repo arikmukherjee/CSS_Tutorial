@@ -1,0 +1,79 @@
+div {
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    background-color: aquamarine;
+    border-radius: 50%;
+    /*transition-duration: 2s;  The HOVER will take 2second to happen*/
+    /* transition-timing-function: steps(5);
+    transition-timing-function: ease-in;
+    transition-delay: 1s;
+    transition: all; */
+
+    position: relative;
+    top: 100px;
+    left: 200px;
+    /* transform: rotate(45deg); */
+
+    /*transform: scale(2);  The box will be 2times bigger than the previous*/
+
+    /* animation-name: colorAnimate;
+    animation-duration: 2s;
+    animation-timing-function: ease-in;
+    animation-delay: 2s;
+    animation-iteration-count: 5;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-direction: reverse; */
+
+    animation: colorAnimate 2s ease-in 0s infinite normal;
+    /* Syntax = animation: name duration timing_function delay iteration_count direction;*/
+}
+
+@keyframes colorAnimate {
+    /* from {background-color: aquamarine;}
+    to {background-color: rgb(255, 213, 0);} */
+
+    /* from {left: 0px;}
+    to {left: 200px;} */
+
+    /* from{
+        left: 0px;
+        background-color: yellow;
+    }
+    to{
+        left: 200px;
+        background-color: red;
+    } */
+
+    0%{
+        left: 0px;
+        background-color: yellow;
+    }
+    50% {
+        background-color: blue;
+    }
+    100%{
+        left: 200px;
+        background-color: red;
+    } 
+}
+
+
+div:hover {
+    /* background-color: red;
+    color: white;
+    font-size: 10px; */
+    /* transform: scale(3);
+    transform: rotate(180deg); */
+    /* transform: translateX(-200px); */
+    /* transform: translate(100px,100px); */
+    /* transform: skew(90deg); */
+
+
+}
+
+/* "active" state means to click on that box  */
+/* div:active{
+    background-color: blue;
+} */
