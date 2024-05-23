@@ -39,3 +39,11 @@
     <li>Transition</li>
     <li>Animation</li>
 </ul>
+<h3>Project</h3>
+<ul>
+    <li>Amazon.in Clone</li>
+</ul>
+
+
+https://github.com/arikmukherjee/CSS_Tutorial/assets/112742649/2cb5acf4-6174-4894-9908-d076559627a1
+
