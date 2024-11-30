@@ -1,5 +1,5 @@
 # CSS_Tutorial
-<h1>What dis I learn from this tutorial ?</h1>
+<h1>What did I learn from this tutorial ?</h1>
 <h3>Level 1</h3>
 <ul>
   <li>CSS Syntax</li>
